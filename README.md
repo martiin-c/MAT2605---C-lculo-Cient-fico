@@ -1,1 +1,1 @@
-# MAT2605-Cálculo-Cientifico
+# MAT2605-Cálculo-Científico
